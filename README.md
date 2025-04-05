@@ -1,6 +1,6 @@
 ## Seja Bem vindo!!
 
-Sou estudante de ciência da computação da Universidade Católica de Pernambuco. Estou no meu 4° 
+Sou estudante de ciência da computação da Universidade Católica de Pernambuco. Estou no meu 5° 
 período de curso. Estou sempre buscando aprender e melhorar minhas habilidades dentro da área,
 gosto de aprender linguagens novas e desenvolver novos projetos.
 
